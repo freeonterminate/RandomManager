@@ -29,8 +29,5 @@ end;
 2024/12/12  FirstRelease
 
 # LICENSE
-Copyright 2024 piksware
+Copyright 2024 piksware  
 https://piksware.com/
-
-MIT License.
-
