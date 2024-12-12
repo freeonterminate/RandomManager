@@ -1,0 +1,2 @@
+# RandomManager
+Random Algorithm Selector
