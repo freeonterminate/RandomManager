@@ -18,12 +18,12 @@ end;
 
 # Available Algorithms
 
-|Algorithms|Text|
-|---|---|
-|Linear congruential generators|LCG|
-|CNG Random|CNG|
-|XorShift|XorShift
-|MersenneTwister|MT|
+|Algorithms|Text|Unit|
+|---|---|---|
+|Linear congruential generators|LCG|PK.Math.Random.LCG.pas|
+|CNG Random|CNG|PK.Math.Random.CNG.pas|
+|XorShift|XorShift|PK.Math.Random.XorShift.pas|
+|MersenneTwister|MT|PK.Math.Random.MersenneTwister.pas|
 
 # History
 2024/12/12  FirstRelease
